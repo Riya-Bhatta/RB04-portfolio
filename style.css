@@ -134,6 +134,8 @@ img {
 p {
     color: white;
     font-size: 25px;
+    display:flex;
+    display-flex:column;
 /*     padding-left: 10px; */
 }
 
