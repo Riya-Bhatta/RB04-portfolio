@@ -120,7 +120,7 @@ img {
     border: 1px solid black;
     height: 330px;
     width: auto;
-    position: relative;
+/*     position: relative; */
     flex-wrap: wrap;
     color:white;
     display:flex;
