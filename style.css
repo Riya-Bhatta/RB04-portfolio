@@ -128,7 +128,7 @@ img {
     flex-wrap: wrap;
     color:white;
     display:flex;
-    display-flex:column;
+    
     font-family:cursive;
     
     /* background-image: radial-gradient(pink 380px, rgb(218, 84, 84) 630px, orange 450px);
