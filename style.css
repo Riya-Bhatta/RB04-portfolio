@@ -54,7 +54,7 @@ ul {
     font-weight: 700px;
 }
 
-nav li {
+/* /* nav li { */
     font-size: 1.8rem;
     border-bottom: 0.4rem transparent solid;
     transition: 0.3s ease-in-out;
@@ -139,7 +139,7 @@ h1 {
     padding-top: 30px;
 }
 
-.nav-skill {
+/*.nav-skill {
     height: 50px;
     width: 100%;
     background-color: rgb(168, 89, 16);
@@ -295,3 +295,4 @@ a {
     color: rgb(216, 147, 17);
     height: 60px;
 }
+ */
