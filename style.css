@@ -76,6 +76,8 @@ nav li :hover {
     height: 330px;
     width:120vh;
     flex-wrap: wrap;
+    display:flex;
+    display-flex:column;
 }
 
 .intro {
@@ -84,6 +86,7 @@ nav li :hover {
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     align-items: center;
+    display-flex:column;
 }
 
 .name {
@@ -93,6 +96,7 @@ nav li :hover {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     animation: forwards;
     animation-iteration-count: 2;
+     display-flex:column;
 }
 
 h2 {
