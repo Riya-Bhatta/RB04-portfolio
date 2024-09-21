@@ -74,7 +74,7 @@ nav li :hover {
 
 .first-container {
     height: 330px;
-    width: auto;
+    width:120vh;
     flex-wrap: wrap;
 }
 
@@ -104,14 +104,14 @@ h2 {
 }
 
 img {
-    padding-left: 220px;
+/*     padding-left: 220px; */
     border-bottom-right-radius: 40px;
     border-top-left-radius: 20px;
     border-top-right-radius: 40px;
     border-bottom-left-radius: 20px;
-    padding-top: 10px;
+/*     padding-top: 10px; */
     image-orientation: from-image;
-    padding-left: 25px;
+/*     padding-left: 25px; */
     flex-wrap: wrap;
 }
 
